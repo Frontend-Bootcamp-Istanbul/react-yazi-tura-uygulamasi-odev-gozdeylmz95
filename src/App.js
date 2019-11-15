@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import CoinFlipper from './CoinFlipper';
+import ParaDondur from './ParaDondur';
 
 function App() {
   return (
     <div className="App">
-      <CoinFlipper />
+      <ParaDondur/>
     </div>
   );
 }
